@@ -2,7 +2,9 @@
 #Tricker youtuber cyber security expert
 import os
 import bs4
-print('\033[1;94mCHACKING PKGZ')
+os.system('pip install mechanize')
+os.system('pip install rich')
+os.system('pip install idena')
 marina=input('\033[1;94mARE YOU MUSALIM=')
 marina=input('\033[1;94mASSALAM ALAIKUM=')
 marina=input('\033[1;94mWHAT IS YOUR USER NAME=')
@@ -27,6 +29,9 @@ print('\033[1;94mSTATUS           FREE AND ENJOY   ')
 print('\033[1;94mVERSION          9.8.7            ')
 print('\033[1;94m___________________________________')
 
-print('\033[1;94m_______________________________')
-print('\033[1;94mFOLLOW ME FOR APPROVA          ')
+print('\033[1;94m[1]FOLLOW ME FOR APPROVAL')
+print('\033[1;94m[2] exit
 print('\033[1;94m________________________________')
+print("")
+print('\033[1;94mFOLLOW MY FACEBOOK ID')
+marina=input('\n\033[1;94mChoice =')
