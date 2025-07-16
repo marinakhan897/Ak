@@ -32,5 +32,11 @@ print('\033[1;94m [1] Follow my facebook ID FOR APPROVA')
 print('\033[1;94m [2] EXIT ')
 marina=input('\033[1;94mYOUR OWN CHOICE=')
 os.system('clear')
+print('\033[1;93m╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗')
+print('\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   KIRAN DOLL')
+print('\033[1;93m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ ')
+print('\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mMARINA\033[1;95m♡╰──────────•◈•──────────╯')
+
+
 
 
