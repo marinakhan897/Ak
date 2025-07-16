@@ -28,35 +28,7 @@ print('\033[1;94mWORK             OLD CLONING TOOL  ')
 print('\033[1;94mSTATUS           FREE AND ENJOY   ')
 print('\033[1;94mVERSION          9.8.7            ')
 print('\033[1;94m___________________________________')
-
-print('\033[1;94m[1]FOLLOW ME FOR APPROVAL')
-print('\033[1;94m[2] exit ')
-print('\033[1;94m________________________________')
-print("")
-print('\033[1;94mFOLLOW MY FACEBOOK ID')
-marina=input('\n\033[1;94mChoice =')
-if marin in [""," "]
-exit()
-elif marina in ["2","02"]
-print('THANK YOU SO MUCH 🥰🥰')
-os.system('xdg-open https://facebook.com/gamerqueen3633')
-elif marina in ["1","01"]
-
-print("")
-time.sleep(2.0)
-print('\033[1;94mTYPE THE NAME OF OWNER')
-input('\n\033[1;94mTYPE NAME=')
-time.sleep(2.1)
-print("")
-print('\033[1;94mSuccessfull bro')
-time.sleep(2.1)
-os.system('clear')
-print('\033[1;94m____________________________________________________')
-print('\033[1;94m [1] OLD CLONING  2007  - 2008 ')
- print('\033[1;94m [1] OLD CLONING  2009  - 2010 ')
-  print('\033[1;94m [1] OLD CLONING  2011  - 2012 ')
-   print('\033[1;94m [1] OLD CLONING  2013  - 2014 ')
-   print('\033[1;94m [1] OLD CLONING  2015  - 2016')
-   print('\033[1;94m____________________________________________________')                        
-   
+print('\033[1;94mFollow my facebook ID FOR APPROVA')
+print('\033[1;94m EXIT ')
+marina=input('\033[1;94mYOUR OWN CHOICE')
 
