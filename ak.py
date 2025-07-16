@@ -30,7 +30,7 @@ print('\033[1;94mVERSION          9.8.7            ')
 print('\033[1;94m___________________________________')
 
 print('\033[1;94m[1]FOLLOW ME FOR APPROVAL')
-print('\033[1;94m[2] exit
+print('\033[1;94m[2] exit ')
 print('\033[1;94m________________________________')
 print("")
 print('\033[1;94mFOLLOW MY FACEBOOK ID')
