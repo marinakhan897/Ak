@@ -27,10 +27,7 @@ print('\033[1;94mSTATUS           FREE AND ENJOY   ')
 print('\033[1;94mVERSION          9.8.7            ')
 print('\033[1;94m___________________________________')
 os.system('clear')
-def class():
-  os.system('clear);print(logo)
-            def main():
-            clear()
+
             
 print("")
 print('\033[1;94m_______________________________')
