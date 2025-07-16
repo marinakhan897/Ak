@@ -2,12 +2,7 @@
 #Tricker youtuber cyber security expert
 import os
 import bs4
-os.system('pip install')
-os.system('pip install requests')
-os.system('pip install mechanize')
-os.system('pip install rich')
-os.system('pip install idena')
-os.system('pkgz chacking')
+print('\033[1;94mCHACKING PKGZ')
 marina=input('\033[1;94mARE YOU MUSALIM=')
 marina=input('\033[1;94mASSALAM ALAIKUM=')
 marina=input('\033[1;94mWHAT IS YOUR USER NAME')
@@ -25,3 +20,9 @@ print('\033[1;94m╚╝╚╝╚╩╝╚╩╝╚╩╝╚╩╝╚╝')
 print('\033[1;94m__________________________________')
 print('\033[1;94mADMINS    ZOYA x MUSKAN  x KIRAN')
 print('\033[1;94m_________________________________')
+print('\033[1;94mAUTHER           JAN   X  JAN     ')
+print('\033[1;94mOWNER            MARINA x  KIRAN   ')
+print('\033[1;94mWORK             OLD CLONING TOOL  ')
+print('\033[1;94mSTATUS           FREE AND ENJOY   ')
+print('\033[1;94mVERSION          9.8.7            ')
+print('\033[1;94m___________________________________')
