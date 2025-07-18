@@ -9,6 +9,36 @@ marina=input('\033[1;94mARE YOU MUSALIM=')
 marina=input('\033[1;94mASSALAM ALAIKUM=')
 marina=input('\033[1;94mWHAT IS YOUR USER NAME=')
 os.system('clear')
+marina = input('\n\033[1;93mEnter user name =')
+marina = input('\n\033[1;93mEnter password  =')
+if username == 'marina123':
+  os.system('clear')
+  print banner
+  print'xe2\x9c\x93]  \x1b[1;91mTOOL USERNAME: ' + username + ' (correct)'
+else:
+  print '[!] Invalid Username.'
+time.sleep(1)
+login()
+passw = raw_input('[\xf0\x9f\x94\x90]  \x1b[1;94mTOOL PASSWORD: ')
+if passw =='marina khan':
+  os.system('clear')
+  print banner
+print '[\xe2\x9c\x93]  \x1b[1;91mTOOL USERNAME: ' + username + ' (correct)'
+        print '[\xe2\x9c\x93]  \x1b[1;91mTOOL PASSWORD: ' + passw + '  (correct)'
+        time.sleep(2)
+    else:
+        print '[!] Invalid Password.'
+        time.sleep(1)
+        tlogin()
+    try:
+        toket = open('login.txt', 'r')
+        os.system('python2 .wasii.py')
+    except (KeyError, IOError):
+        methodlogin()
+    else:
+        print '[!] Invalid Password'
+        time.sleep(1)
+        tlogin()  
 print("\033[1;94mWELLCOME TO JAN x JAN COMMAND")
 print("\033[1;94mMARINA ERROR 404 NOT FOUND")
 print("\033[1;94mIAM THE PRINCESS OF MY DAID")
