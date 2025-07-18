@@ -26,7 +26,7 @@ if passw =='marina khan':
 print ('[\xe2\x9c\x93]  \x1b[1;91mTOOL USERNAME: ' + username + ' (correct)')
         
         
-    else:
+    
         print ('[!] Invalid Password.')
         time.sleep(1)
         tlogin()
