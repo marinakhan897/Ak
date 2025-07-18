@@ -13,8 +13,8 @@ marina = input('\n\033[1;93mEnter user name =')
 marina = input('\n\033[1;93mEnter password  =')
 if username == 'marina123':
   os.system('clear')
-  print banner
-  print'xe2\x9c\x93]  \x1b[1;91mTOOL USERNAME: ' + username + ' (correct)'
+  print ('banner')
+  print('xe2\x9c\x93]  \x1b[1;91mTOOL USERNAME: ' + username + ' (correct)')
 else:
   print '[!] Invalid Username.'
 time.sleep(1)
