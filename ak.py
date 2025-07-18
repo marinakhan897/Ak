@@ -25,7 +25,7 @@ if passw =='marina khan':
   print ('banner')
 print ('[\xe2\x9c\x93]  \x1b[1;91mTOOL USERNAME: ' + username + ' (correct)')
         
-        time.sleep(2)
+        
     else:
         print ('[!] Invalid Password.')
         time.sleep(1)
